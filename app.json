@@ -1,0 +1,12 @@
+{
+  "name": "interfaceifood",
+  "displayName": "interfaceifood",
+  "expo": {
+    "name": "interfaceifood",
+    "slug": "interfaceifood",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
